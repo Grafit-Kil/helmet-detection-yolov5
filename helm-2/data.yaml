@@ -1,0 +1,12 @@
+names:
+- helmet
+nc: 1
+roboflow:
+  license: MIT
+  project: helm-1obmh
+  url: https://universe.roboflow.com/hamza-lfgvu/helm-1obmh/dataset/2
+  version: 2
+  workspace: hamza-lfgvu
+test: ../test/images
+train: helm-2/train/images
+val: helm-2/valid/images
